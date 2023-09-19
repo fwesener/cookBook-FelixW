@@ -1,7 +1,8 @@
 
-Ingredients
 
-Vegan Carrot Cake:
+# Vegan Carrot Cake:
+
+## Ingredients
 
     2 1/2 cups all-purpose flour
 
@@ -45,8 +46,7 @@ Vegan Cream Cheese Frosting:
 
     Walnuts, for optional garnish
 
-Steps to Make It
-
+## Preparation
 
  
 
@@ -76,3 +76,5 @@ Steps to Make It
 
 
     Garnish with additional chopped walnuts, if desired. Refrigerate until ready to serve.
+
+ENJOY!
